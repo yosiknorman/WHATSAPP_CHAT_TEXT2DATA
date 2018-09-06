@@ -1,0 +1,13 @@
+~ Kirim arsip file whatsapp ke email (pastikan pesan pada bulan analisis tidak terhapus)
+~ Download file pada email 
+~ rename file dengan nama input_YYYYMM.txt dan masukkan kedalam folder Chat_Whatsapp
+	misalkan: input_201803.txt  adalah januari 2018 
+
+~ jalankan skrip WA_F1.R, caranya:
+	./WA_F1.R
+	./WA_F2.R
+	./WA_F2_Kec_version.R	(untuk warning tipe tiap kecamatan)
+	./WA_F2_Kab_version.R  (untuk warning tipe tiap kabupatem)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Yosik Norman 2018 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+================================== (23-Februari-2018) ===================================
